@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F3E5F5"/>
+  <text x="200" y="250" font-family="'YouYuan', 'Varela Round', serif" font-size="24" fill="#4A148C" text-anchor="middle">精工细作</text>
+  <!-- Tools -->
+  <circle cx="150" cy="120" r="30" fill="#AB47BC"/>
+  <rect x="220" y="100" width="60" height="40" fill="#8E24AA"/>
+</svg>

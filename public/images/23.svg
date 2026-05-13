@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#2c2c2c"/>
+  <!-- Background Pattern -->
+  <path d="M0 0 L800 450 M800 0 L0 450" stroke="#3d3d3d" stroke-width="2"/>
+  
+  <!-- Umbrella Crafting Scene (Simplified) -->
+  <circle cx="400" cy="225" r="120" fill="#8B4513" opacity="0.3"/>
+  <path d="M300 350 Q400 150 500 350" stroke="#dcb482" stroke-width="15" fill="none"/>
+  <line x1="400" y1="200" x2="400" y2="350" stroke="#dcb482" stroke-width="8"/>
+  
+  <!-- Hands -->
+  <circle cx="350" cy="300" r="30" fill="#f0d5b0"/>
+  <circle cx="450" cy="300" r="30" fill="#f0d5b0"/>
+
+  <!-- Play Button Overlay -->
+  <circle cx="400" cy="225" r="50" fill="rgba(255,255,255,0.8)"/>
+  <path d="M385 200 L425 225 L385 250 Z" fill="#8B4513"/>
+  
+  <text x="400" y="400" font-family="'SimHei', sans-serif" font-size="24" fill="#fff" text-anchor="middle">非遗制伞工艺 · 匠心传承</text>
+</svg>

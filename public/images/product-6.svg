@@ -1,0 +1,9 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#E0F2F1"/>
+  <text x="200" y="350" font-family="'YouYuan', 'Varela Round', serif" font-size="30" fill="#00695C" text-anchor="middle">素雅清风</text>
+  <!-- Simple Lines -->
+  <path d="M120 180 Q200 100 280 180" stroke="#00897B" stroke-width="2" fill="none"/>
+  <line x1="200" y1="140" x2="200" y2="280" stroke="#00796B" stroke-width="3"/>
+  <circle cx="150" cy="220" r="5" fill="#80CBC4"/>
+  <circle cx="250" cy="240" r="8" fill="#80CBC4"/>
+</svg>

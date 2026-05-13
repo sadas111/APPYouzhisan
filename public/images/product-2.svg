@@ -1,0 +1,8 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#E3F2FD"/>
+  <circle cx="200" cy="200" r="150" fill="none" stroke="#1E88E5" stroke-width="2"/>
+  <text x="200" y="350" font-family="'YouYuan', 'Varela Round', serif" font-size="30" fill="#1565C0" text-anchor="middle">青花瓷韵</text>
+  <!-- Blue Pattern -->
+  <path d="M100 200 Q200 100 300 200 T100 200" fill="#BBDEFB" stroke="#1976D2" stroke-width="2"/>
+  <line x1="200" y1="150" x2="200" y2="300" stroke="#1565C0" stroke-width="4"/>
+</svg>

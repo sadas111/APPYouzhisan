@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#E8EAF6"/>
+  <text x="200" y="250" font-family="'YouYuan', 'Varela Round', serif" font-size="24" fill="#1A237E" text-anchor="middle">水墨绘伞</text>
+  <!-- Ink Brush -->
+  <rect x="180" y="50" width="40" height="100" fill="#3949AB"/>
+  <path d="M180 150 Q200 180 220 150" fill="#1A237E"/>
+</svg>

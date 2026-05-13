@@ -1,0 +1,8 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#EFEBE9"/>
+  <text x="200" y="250" font-family="'YouYuan', 'Varela Round', serif" font-size="24" fill="#5D4037" text-anchor="middle">云氏制伞</text>
+  <!-- Pavilion -->
+  <path d="M150 150 L250 150 L200 100 Z" fill="#8D6E63"/>
+  <rect x="170" y="150" width="60" height="40" fill="#A1887F"/>
+  <path d="M100 100 Q200 50 300 100" stroke="#5D4037" stroke-width="2" fill="none"/>
+</svg>

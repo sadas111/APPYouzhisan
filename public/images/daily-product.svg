@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#F0F8FF"/>
+  
+  <!-- Bamboo Scene -->
+  <path d="M100 300 L100 50" stroke="#556B2F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M100 100 Q150 80 180 120" stroke="#556B2F" stroke-width="3" fill="none"/>
+  <path d="M100 180 Q60 160 30 200" stroke="#556B2F" stroke-width="3" fill="none"/>
+  
+  <path d="M300 300 L300 80" stroke="#556B2F" stroke-width="6" stroke-linecap="round"/>
+  <path d="M300 150 Q350 130 380 170" stroke="#556B2F" stroke-width="3" fill="none"/>
+
+  <!-- Ink Splash -->
+  <circle cx="200" cy="150" r="80" fill="#000" opacity="0.1"/>
+  
+  <!-- Text Label -->
+  <text x="350" y="50" font-family="'SimHei', sans-serif" font-size="24" fill="#333" writing-mode="tb">水墨竹韵</text>
+</svg>

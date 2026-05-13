@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#fff" opacity="0"/>
+  
+  <!-- Faint Umbrella Outline for Tracing -->
+  <circle cx="150" cy="150" r="140" fill="none" stroke="#eee" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="150" y1="10" x2="150" y2="290" stroke="#eee" stroke-width="2"/>
+  <line x1="10" y1="150" x2="290" y2="150" stroke="#eee" stroke-width="2"/>
+  <line x1="50" y1="50" x2="250" y2="250" stroke="#eee" stroke-width="2"/>
+  <line x1="250" y1="50" x2="50" y2="250" stroke="#eee" stroke-width="2"/>
+  
+  <text x="150" y="150" font-family="'SimHei', sans-serif" font-size="14" fill="#ddd" text-anchor="middle">在此区域绘制</text>
+</svg>

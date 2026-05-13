@@ -1,0 +1,11 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#FCE4EC"/>
+  <circle cx="200" cy="180" r="100" fill="#F8BBD0" opacity="0.5"/>
+  <text x="200" y="350" font-family="'YouYuan', 'Varela Round', serif" font-size="30" fill="#C2185B" text-anchor="middle">粉黛佳人</text>
+  <!-- Umbrella -->
+  <path d="M80 180 Q200 60 320 180" stroke="#C2185B" stroke-width="3" fill="#F48FB1" opacity="0.8"/>
+  <line x1="200" y1="120" x2="200" y2="300" stroke="#880E4F" stroke-width="4"/>
+  <!-- Petals -->
+  <circle cx="150" cy="150" r="10" fill="#E91E63"/>
+  <circle cx="250" cy="140" r="8" fill="#E91E63"/>
+</svg>

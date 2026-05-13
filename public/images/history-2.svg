@@ -1,0 +1,8 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FFF3E0"/>
+  <text x="200" y="250" font-family="'YouYuan', 'Varela Round', serif" font-size="24" fill="#E65100" text-anchor="middle">蔡伦造纸</text>
+  <!-- Paper Scroll -->
+  <rect x="100" y="80" width="200" height="120" fill="#FFE0B2" stroke="#EF6C00" stroke-width="2"/>
+  <line x1="120" y1="100" x2="280" y2="100" stroke="#EF6C00" stroke-width="1"/>
+  <line x1="120" y1="130" x2="280" y2="130" stroke="#EF6C00" stroke-width="1"/>
+</svg>

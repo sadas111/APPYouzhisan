@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E6E6FA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D8BFD8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg2)"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="100" cy="100" r="50" fill="#fff" opacity="0.5"/>
+  <circle cx="700" cy="300" r="80" fill="#fff" opacity="0.5"/>
+  
+  <!-- Text -->
+  <text x="400" y="180" font-family="'SimHei', sans-serif" font-size="50" fill="#483D8B" text-anchor="middle" font-weight="bold">私人定制 · 独一无二</text>
+  <text x="400" y="250" font-family="'SimHei', sans-serif" font-size="30" fill="#6A5ACD" text-anchor="middle">绘制属于你的油纸伞</text>
+  
+  <rect x="320" y="280" width="160" height="50" rx="25" fill="#483D8B"/>
+  <text x="400" y="315" font-family="'SimHei', sans-serif" font-size="20" fill="#fff" text-anchor="middle">立即体验</text>
+</svg>

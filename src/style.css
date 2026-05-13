@@ -1,0 +1,40 @@
+:root {
+  --color-primary: #4A6A6F; /* Dark Cyan - Login Style */
+  --color-secondary: #8B8B83; /* Grayish - Login Style */
+  --color-accent: #D2691E; /* Chocolate - For Prices/Highlights */
+  --color-ink: #2F4F4F; /* DarkSlateGray - Ink */
+  --color-bg-warm: #F5F5DC; /* Beige - Login Style Background */
+  --color-text-main: #333333;
+  /* Q-version rounded fonts for a cute look */
+  --font-family-ancient: "YouYuan", "Yu Yuan", "Varela Round", "Rounded Mplus 1c", "Nunito", "KaiTi", "STKaiti", serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  /* Apply Q-version font globally */
+  font-family: var(--font-family-ancient);
+  background: linear-gradient(rgba(255,255,255,0.85), rgba(221, 255, 238, 0.8));
+  color: var(--color-text-main);
+  -webkit-font-smoothing: antialiased;
+}
+
+.ancient-font {
+  font-family: var(--font-family-ancient);
+}
+
+/* Force rounded font on Vant buttons and common text elements */
+.van-button, .van-tabbar-item, .van-nav-bar__title, .van-cell, h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-ancient) !important;
+}
+
+/* Page transitions */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.3s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}

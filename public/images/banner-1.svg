@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFF5E6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFE4C4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg1)"/>
+  
+  <!-- Decorative Umbrella -->
+  <path d="M600 300 Q700 100 800 300" stroke="#8B4513" stroke-width="5" fill="#FF7F50" opacity="0.8"/>
+  <line x1="700" y1="200" x2="700" y2="350" stroke="#8B4513" stroke-width="5"/>
+  
+  <!-- Text -->
+  <text x="50" y="150" font-family="'SimHei', sans-serif" font-size="60" fill="#8B4513" font-weight="bold">千年非遗</text>
+  <text x="50" y="240" font-family="'SimHei', sans-serif" font-size="40" fill="#A0522D">油纸伞文化节</text>
+  <text x="50" y="300" font-family="'SimHei', sans-serif" font-size="24" fill="#555">感受传统工艺的魅力</text>
+</svg>

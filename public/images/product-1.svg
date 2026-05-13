@@ -1,0 +1,16 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F5F5DC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0D6B8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <circle cx="200" cy="180" r="120" fill="#8B4513" opacity="0.1"/>
+  <text x="200" y="350" font-family="'YouYuan', 'Varela Round', serif" font-size="30" fill="#5D4037" text-anchor="middle">梅兰竹菊</text>
+  <!-- Abstract Umbrella Shape -->
+  <path d="M100 200 Q200 50 300 200" stroke="#5D4037" stroke-width="5" fill="none"/>
+  <line x1="200" y1="125" x2="200" y2="300" stroke="#5D4037" stroke-width="5"/>
+  <!-- Bamboo Leaves -->
+  <path d="M180 150 Q160 120 190 130 M220 160 Q240 130 210 140" stroke="#4CAF50" stroke-width="3" fill="none"/>
+</svg>
